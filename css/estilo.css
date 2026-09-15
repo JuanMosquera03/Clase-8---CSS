@@ -60,6 +60,7 @@ h2{
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
 }
 .empresa{
     width: 100%;
@@ -80,6 +81,9 @@ p{
     text-align: center;
     margin-bottom: 20px;
 }
+.servicios ul{
+    padding: 10px;
+}
 .galeria{
     width: 80%;
     margin: 0 auto;
@@ -88,6 +92,13 @@ p{
 .galeria h2{
     text-align: center;
     margin-bottom: 20px;
+}
+.galeria table{
+    margin: 0 auto;
+    padding: 10px;
+}
+.galeria img:hover{
+    opacity: 60%;
 }
 .contacto{
     width: 100%;
